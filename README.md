@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm emivxd.</h1>
-- 🔭 I’m currently working on [bandaged-bd](https://github.com/emivxd/bandaged-bd)
+- 🔭 I’m currently working on [bandaged-bd](https://github.com/emivxd/bandaged-bd/tree/master/custom-css)
 
 - 👯 I’m looking to collaborate on [bandaged-bd](https://github.com/emivxd/bandaged-bd)
 
